@@ -3,4 +3,4 @@ export const DISCORD_LINK = "https://discord.gg/qKdEvbcSxs";
 export const GITHUB_LINK = "https://github.com/movie-web/movie-web";
 export const DONATION_LINK = "https://ko-fi.com/movieweb";
 export const GA_ID = "G-44YVXRL61C";
-export const BACKEND_URL = "https://dev--jade-salmiakki-4ef4ef.netlify.app";
+export const BACKEND_URL = "backend-production-c7c3.up.railway.app";
